@@ -11,7 +11,7 @@
 	
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-		<suite-xml>test-suite/testng.xml</suite-xml>
+		<suite-xml>testng_web.xml</suite-xml>
 	</properties>
 
 
